@@ -71,7 +71,7 @@
     ##### Ressources
 
     
-    - [Langage et codage débranchés](https://sites.ac-nancy-metz.fr/facilacoder/spip.php?article2){target=_blank} : [pliage d'avion](./fds/Avion.pdf){target=_blank}, [robot idiot](https://sites.ac-nancy-metz.fr/facilacoder/IMG/pdf/p1-defi_1.pdf){target=_blank}, [robot cuisinier](./fds/Cuisinier.pdf){target=_blank}, ... ;
+    - [Langage et codage débranchés](https://sites.ac-nancy-metz.fr/facilacoder/spip.php?article2){target=_blank} : [pliage d'avion](./fds/Avion.pdf){target=_blank}, [robot idiot](https://sites.ac-nancy-metz.fr/facilacoder/IMG/pdf/p1-defi_1.pdf){target=_blank}, [robot cuisinier](./fds/Cuisinier.pdf){target=_blank}, [Comprendre l'informatique en jouant à faire le robot - vidéo](https://youtu.be/9AtmJ9mTaB0?feature=shared){target=_blank} ,... ;
 
     - [Blue Bot](https://www.generation5.fr/279--robot-blue-bot.php){target=_blank}, sa [barre de programmation](https://www.generation5.fr/280--barre-programmation-blue-bot.php){target=_blank}, son [application iPad](https://apps.apple.com/fr/app/blue-bot/id957753068){target=_blank} ;
 
