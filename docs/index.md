@@ -79,6 +79,8 @@
 
     - Scratch_3 : [Fiche_1](./fds/SCRATCH_3-Fiche_1.pdf){target=_blank}, [Fiche_2](./fds/SCRATCH_3-Fiche_2.pdf){target=_blank}, [Fiche_3](./fds/SCRATCH_3-Fiche_3.pdf){target=_blank}, [Fiche_4](./fds/SCRATCH_3-Fiche_4.pdf){target=_blank}, [Fiche_5](./fds/SCRATCH_3-Fiche_5.pdf){target=_blank} ; 
 
+    - Scratch Jr : [Initiation à ScratchJunior : des missions ludiques et créatives pour initier les élèves au codage](https://pixees.fr/initiation-a-scratchjunior-des-missions-ludiques-et-creatives-pour-initier-les-eleves-au-codage/){target=_blank} ;
+
 === "TRAVAIL À FAIRE"
 
     ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
