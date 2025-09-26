@@ -75,7 +75,7 @@
 
     - [Blue Bot](https://www.generation5.fr/279--robot-blue-bot.php){target=_blank}, sa [barre de programmation](https://www.generation5.fr/280--barre-programmation-blue-bot.php){target=_blank}, son [application iPad](https://apps.apple.com/fr/app/blue-bot/id957753068){target=_blank}, [25 cartes d'instructions complémentaires](https://www.generation5.fr/281--25-cartes-instructions-complementaires-blue-bot.php){target=_blank}, [poussoirs et portes-stylos ](https://www.generation5.fr/433--pack-poussoirs-et-portes-stylos-robots.php){target=_blank} ; 
 
-    - Le [Taxi](./fds/Taxi.pdf){target=_blank}, le [Facteur](./fds/Facteur.pdf){target=_blank}, [Pictionary](./fds/Pictionary.pdf){target=_blank},  [Pirates](https://primabord.eduscol.education.fr/programmer-des-deplacements-blue-bots-sur-tapis-ferme-ile-et-pirates){target=_blank}, ... ;
+    - Le [Taxi](./fds/Taxi.pdf){target=_blank}, le [Facteur](./fds/Facteur.pdf){target=_blank}, [Pictionary](./fds/Pictionary.pdf){target=_blank},  [Pirates](https://primabord.eduscol.education.fr/programmer-des-deplacements-blue-bots-sur-tapis-ferme-ile-et-pirates){target=_blank}, [debuter_en_programmation_avec_blue-bot](./fds/7_-_sequence_debuter_en_programmation_avec_blue-bot.pdf){target=_blank}... ;
 
     - Scratch_3 : [Fiche_1](./fds/SCRATCH_3-Fiche_1.pdf){target=_blank}, [Fiche_2](./fds/SCRATCH_3-Fiche_2.pdf){target=_blank}, [Fiche_3](./fds/SCRATCH_3-Fiche_3.pdf){target=_blank}, [Fiche_4](./fds/SCRATCH_3-Fiche_4.pdf){target=_blank}, [Fiche_5](./fds/SCRATCH_3-Fiche_5.pdf){target=_blank} ; 
 
