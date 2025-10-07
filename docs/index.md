@@ -58,6 +58,10 @@
     - avec Blue Bot et son application iPad ;
     - avec Scratch.
 
+    ![Diplome](./fds/Diplome.png){.center}
+    
+    [Voir le diplome en pdf](./fds/Diplome.pdf)
+
     ##### Tâches à réaliser
 
     - Constituer des équipes ;
