@@ -52,15 +52,17 @@
 
     Nous envisageons d'animer cinq ateliers réalisable en 10 à 15 minutes :
 
-    - en mode débranché (pliage d'avion, robot idiot, cuisine ?, ...);
-    - avec Blue Bot et ses boutons ;    
+    - en mode débranché (pliage d'avion, robot idiot en chemin pour l'école, cuisine ?, ...);
+    - ~avec Blue Bot et ses boutons ;~    
     - avec Blue Bot et sa barre de programmation ;
     - avec Blue Bot et son application iPad ;
-    - avec Scratch.
+    - avec Scratch_JR ou Scratch_3.
 
     ![Diplome](./fds/Diplome.png){.center}
     
     [Voir le diplome en pdf](./fds/Diplome.pdf)
+
+    [Organisation des groupes en pdf](./fds/2025-2026%20Fête%20de%20la%20science%20-%20organisation%20groupes.pdf)
 
     ##### Tâches à réaliser
 
