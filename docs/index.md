@@ -27,6 +27,46 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+***
+## Le 17/10
+
+=== "CONTENU DE SÉANCE"
+
+    ### Prise en main des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target="_blank"} pour communiquer un compte rendu :
+            
+    - Si vous n'avez pas de compte Capytale, **créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `E6N E3H 77X` ;
+    - **Compléter** dans un navigateur une fiche d'informations à partir de son lien [Capytale n°8827-3935418](https://capytale2.ac-paris.fr/web/c/8827-3935418){target="_blank"} ou [Basthon](https://notebook.basthon.fr/?ipynb=eJylU9tuEzEQ_ZVhKxSQck_aZCNKBa2QglBJKfDSVpXjnU2m9dpb29sSVf0XHlv-gOf9Mca5NRIIiSKtdj1jz8zZc45vI4lKuWhwchtl6EUivIgGt3fVef7cz3KMBlEm7GVibnRUjZwprAy5rS14R3KKkFtzgR6U0RNIEPaHn4FDXiXlgzTFNVrPa3Tgck6QUOTLBwfHw3Ds8HgY3VX_ffYWDBPUnlKSwpPRMDjVp7oGhyaDAdTr9RCMLOrNeF8J53AVn-rQZh_hqkC4QEgFOX5AVYTW5UPAbDWV9xZhD44KQ_z5WP6EvVC60eGoQAXoPGQMY0lGUjGWGN8C2x4cCO3CHAWJyQTp0PIr2mUuKx88oV13fiIjb0kJDUmxBoGgBKTljzn_Ye0kg5KBgTDpFWUTcFbuTr3P3aDRQEsSZWasEvStPiE_LcZ1Mo328bDGsp63m-3tGr92GmniGgeUK5NhPWfdbyjx092d5vPXS1aWxBIIGPNMSI2WgQsmdiHVI4EbRzNDzNNfC57IzYiDq6AhCy2nhhwFSnJhPUnKmfvyOwv_ZvTfbv7NHiuDVVBfs8EmXF2ZBbNZrC7kX47cLFyUvq-QUoXz7EC1umdVcDPny_sMwRRrNy0mCMrQCgK2U5GsDVWDk3Ar2BeryrMXXz59YBiFBkf8Ozc4frkg-dkJZXOIfzqMsN4MFUGLs-qmFtEl3xhULkcZIi2yQH8-81OjO6xIQi5XYna-3BjNN6BTj-st2OnWxuRZ3Yi0R5tb5HfoMhVuyofjuNNrxZ1mPO51417SRRH3m73tdpqm4ySV2zJudeNWup30McVuF7HZb7X7aSI7cRo3253ojlvrcWpsJnw06D4G5xlpw6Pad78Aki640g){target="_blank"} ;
+        
+    - **Rendre** votre travail réalisé sur Capytale ou **transmettre** par mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr) un lien de partage de votre notebook complété sur Basthon ;
+    
+
+    ### **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
+
+    - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `9dr45p3b` fourni​​​ pour débuter le **Parcours_1** ;
+    - ==**notez, et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;    
+        
+    - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+
+    - **Récupérer** votre notebook de Capytale (ou Basthon) sur votre iPad :
+        
+        - **installer** l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/){target="_blank"} depuis la bibliothèque d'applications **Eleve** ;
+        - **Faire** `Fichier > Enregistrer sous...` pour télécharger sur l'iPad en local un fichier copie de votre notebook ;
+        - **Déplacer** le fichier téléchargé dans le dossier Carnet et **renommer** le au format `Nom_fichier.ipynb` ;
+
+    
+
+
+
 
 ***
 
