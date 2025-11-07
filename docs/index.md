@@ -17,15 +17,40 @@
 
 - **Développer** en équipe tout au long de l'année des projets...
 
-    <!-- - Créer un [jeu sur le thème de la cybersécurité](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){target="_blank"} ;
+    - Créer un [jeu sur le thème de la cybersécurité](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){target="_blank"} ;
     - S'entrainer à programmer pour la [Nuit du c0de/](https://www.nuitducode.net/){target="_blank"} ;​
-    - Construire et programmer des robots pour domino challenge et/ou [RoboFesta](https://www.robofesta.fr){target="_blank"} ;
-    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;    
-    - Développer des équipements pour connecter la serre du projet "planète verte" au collège Saint Augustin ;
+    - Construire et programmer des robots, par exmple pour [RoboFesta](https://www.robofesta.fr){target="_blank"} ;
+    - Hacker un système pour le comprendre et le faire évoluer, par exemple un pilote automatique de barre franche, une maquette d'ascenceur, le [robot artiste dessinateur Quincy](https://france-tendance.com/products/quincy%E2%84%A2-robot-artiste-dessinateur){target="_blank"}, ... ;    
+    - Développer des équipements d'IoT (Internet des Objets) et de domotique, par exemple pour connecter la serre du projet "planète verte" au collège Saint Augustin, faire une station météo, ... ;
     - Imaginer des solutions pour mesurer l'activité sportive dans le cadre du projet "bougeons ensemble" ;
-    - Autres projets d'innovation... -->
+    - ... ;
+    - Autres projets d'innovation...
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+
+## Le 07/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur la fiche d'informations, bilan de la Fête de la science et **pistes de futurs projets** sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} ;
+
+    - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de relever [les défis...](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank .md-button .md-button--primary } ;    
+    
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **relever** tous [les défis sur BBC micro:bit](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank} ;
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et **Compléter** progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
 ***
 ## Le 17/10
