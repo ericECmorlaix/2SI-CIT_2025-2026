@@ -29,6 +29,29 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+
+## Les 12 et 19/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Reprise des projets sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} : Précision des sujets, réorganisation des équipes, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser, investigation de solutions technologiques...
+
+    - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} puis modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} puis réaliser un assemblage...
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **relever** tous [les défis sur BBC micro:bit](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank} ;
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et **Compléter** progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la modélisation 3D avec [BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} et [Onshape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;    
+
+
+***
 ## Les 21 et 28/11
 
 === "CONTENU DE SÉANCE"
