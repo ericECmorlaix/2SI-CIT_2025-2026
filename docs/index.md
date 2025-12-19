@@ -37,6 +37,7 @@
     - Reprise des projets sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} : Précision des sujets, réorganisation des équipes, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser, investigation de solutions technologiques...
 
     - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} puis modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} puis réaliser un assemblage...
+    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==
 
 === "TRAVAIL À FAIRE"
 
