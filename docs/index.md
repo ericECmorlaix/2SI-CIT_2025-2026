@@ -27,6 +27,35 @@
     - Autres projets d'innovation...
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+
+## Le 16/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Développer vos pré-projets sur BBC micro:bit :
+
+        - Maël : réaliser un site web présentant les différents projets du groupe.
+        - Gabriel/Ewen : Réaliser une radiocommande avec 2 BBC micro:bit, un émetteur et un récepteur en vu de piloter la rotation d'une hélice.
+        - Teva/Goulven : Programmer un jeu vidéo fonctionnant sur BBC micro:bit.
+        - Samuel/Timéo : Piloter un moteur avec une carte BBC micro:bit dans la perspective de réaliser une maquette de moteur.
+            
+    <center><img src="./Projets-BCC_microbit.jpg" width=60% ></center>
+
+    et **rendre** compte de votre avancement sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} ;  
+    
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **relever** tous [les défis sur BBC micro:bit](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank} ;
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et **Compléter** progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la modélisation 3D avec [BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} et [Onshape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;    
 
 ***
 
