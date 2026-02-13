@@ -30,13 +30,13 @@
 
 ***
 
-## Le 30/01
+## Du 30/01
 
 === "CONTENU DE SÉANCE"
 
     - Développer vos pré-projets sur BBC micro:bit :
         
-        - **Maël/Quentin** : Réaliser un site web présentant les différents projets du groupe.
+        - **Maël/Quentin** : Réaliser un [site web](https://maelpig.github.io/new_site/){target="_blank"} présentant les différents projets du groupe.
         - **Loreleil/Manon** : Programmer un blind test sur BBC:microbit.
         - **Gabriel/Ewen** : Réaliser une radiocommande avec 2 BBC micro:bit, un émetteur et un récepteur en vu de piloter la rotation d'une hélice.
         - **Teva/Goulven** : Programmer un jeu vidéo fonctionnant sur BBC micro:bit.
@@ -48,7 +48,7 @@
         - **Yanis/Alexandre** : Piloter un robot roulant avec une télécommande infrarouge.
         
 
-    et **rendre** compte de votre avancement sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} ;  
+    **rendre** compte de votre avancement sur [Capytale n°0fdc-7711653](https://capytale2.ac-paris.fr/web/c/0fdc-7711653){target="_blank"} et transmettre une copie de vos notebook à Maël ;  
     
 
 === "TRAVAIL À FAIRE"
